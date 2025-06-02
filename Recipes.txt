@@ -6,7 +6,13 @@ pasta
 kheer
 paneer
 
+soya
+pizza
+
 
 thank you :D
+
+
+Done my changes
 
 Final Copy
