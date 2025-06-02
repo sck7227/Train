@@ -6,5 +6,8 @@ pasta
 kheer
 paneer
 
+soya
+pizza
+
 
 thank you :D
